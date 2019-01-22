@@ -1,3 +1,8 @@
+function IsKnopaZadrot(){
+	// yeah forever
+	return true; 
+}
+
 function loadRUBData() {
     // Create new object XMLHttpRequest
     let xhr;
