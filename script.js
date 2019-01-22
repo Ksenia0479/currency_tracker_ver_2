@@ -3,6 +3,11 @@ function IsKnopaZadrot(){
 	return true; 
 }
 
+function IsKnopaAlsoTaponka() {
+	// of course!
+	return true;
+}
+
 function loadRUBData() {
     // Create new object XMLHttpRequest
     let xhr;
